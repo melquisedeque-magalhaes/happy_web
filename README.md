@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./src/assets/Logo.svg" width="500px"/>
+  <img src="./src/assets/map-mak.svg" width="500px"/>
 </h1>
 
 <h2 align="center"> Aplicação para organização de visitas nos orfanatos</h2>
@@ -26,11 +26,11 @@
 
 <h2 align="center">Criado com as Tecnologias :rocket: </h2>
 <h3>
-    <img src="./assets/react.png" height="18"/> React Js
-    <img src="./assets/react-native.png" height="18"/> React Native
-    <img src="./assets/node.png" height="18" /> Node Js
-    <img src="./assets/sqlite.png" height="18" /> Sqlite
-    <img src="./assets/ts.png" height="18" /> Typescript
+    <img src="./src/assets/react.png" height="18"/> React Js
+    <img src="./src/assets/react-native.png" height="18"/> React Native
+    <img src="./src/assets/node.png" height="18" /> Node Js
+    <img src="./src/assets/sqlite.png" height="18" /> Sqlite
+    <img src="./src/assets/ts.png" height="18" /> Typescript
 </h3>
 
 ## 📱 Projeto
