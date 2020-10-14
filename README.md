@@ -1,44 +1,67 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">
+  <img src="./src/assets/Logo.svg" width="500px"/>
+</h1>
 
-In the project directory, you can run:
+<h2 align="center"> Aplicação para organização de visitas nos orfanatos</h2>
 
-### `yarn start`
+<h3 align="center">
+  Happy - Aplicação Frontend com React com Typescript
+</h3>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-7-green">
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <a href="https://github.com/leoskrr/GoMarketplace/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-july-yellowgreen">
+  </a>
 
-### `yarn test`
+  <img src="https://img.shields.io/badge/tests-100%25-brightgreen"/>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>
+</p>
 
-### `yarn build`
+<h2 align="center">Criado com as Tecnologias :rocket: </h2>
+<h3>
+    <img src="./assets/react.png" height="18"/> React Js
+    <img src="./assets/react-native.png" height="18"/> React Native
+    <img src="./assets/node.png" height="18" /> Node Js
+    <img src="./assets/sqlite.png" height="18" /> Sqlite
+    <img src="./assets/ts.png" height="18" /> Typescript
+</h3>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📱 Projeto
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<p>
+  O GoBarber é uma aplicação web e mobile para organização de visitas em orfanatos. Essa aplicação foi construída durante a Next Level Week da <a href="https://rocketseat.com.br/">Rocketseat</a>
+  🚀
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h5 align="center">
+  <img src="./src/assets/landingPage.png"/>
+</h5>
+<h5 align="center">
+  <img src="./src/assets/HappyMap.png"/>
+</h5>
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤔 Como contribuir
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Faça um fork desse projeto;
+- Crie uma branch com sua(s) mudança(s): `git checkout -b my-feature`;
+- Faça um commit da(s) sua(s) mudança(s): `git commit -m 'feat: My new feature'`;
+- Crie uma pull request nesse repositório.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<p align="center">With 💜, by Melqui Sodré.</p>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
